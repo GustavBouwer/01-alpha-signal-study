@@ -1,7 +1,7 @@
 """
 Signal construction: cross-sectional 12-1 month momentum.
 
-Reference: Jegadeesh & Titman (1993) — "Returns to Buying Winners and
+Reference: Jegadeesh & Titman (1993) - "Returns to Buying Winners and
 Selling Losers: Implications for Stock Market Efficiency."
 
 The 12-1 convention: use the 11-month cumulative return ending one month

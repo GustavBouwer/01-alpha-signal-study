@@ -3,7 +3,7 @@ Backtesting engine: IC calculation, quintile portfolio construction, performance
 
 IC (Information Coefficient) is the standard evaluation metric for alpha signals
 at systematic funds. It measures the cross-sectional rank correlation between
-a signal and subsequent returns — a good signal has a consistently positive IC.
+a signal and subsequent returns - a good signal has a consistently positive IC.
 
 ICIR (IC Information Ratio) = mean(IC) / std(IC) measures signal consistency.
 Practitioners generally look for ICIR > 0.5 as a threshold for a tradeable signal.
